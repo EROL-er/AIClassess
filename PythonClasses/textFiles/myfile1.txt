@@ -1,26 +1,11 @@
-Apple
-Banana
-Cherry
-Date
-Elderberry
-Fig
-Grape
-Honeydew
-Indian Fig
-Jackfruit
-Kiwi
-Lemon
-Mango
-Nectarine
-Orange
-Papaya
-Quince
-Raspberry
-Strawberry
-Tangerine
-Ugli fruit
-Vanilla Bean
-Watermelon
-Xigua
-Yellow Passion Fruit
-Zucchini
+Name,Age,City,Email,Phone
+Erol X,39,New York,erol@mail.com,111-222-3333
+Martin Luther King,39,Atlanta,martin@mail.com,444-555-6666
+Nelson Mandela,95,Johannesburg,nelson@mail.com,777-888-9999
+Ada Lovelace,36,London,ada@mail.com,222-333-4444
+Grace Hopper,85,New York,grace@mail.com,333-444-5555
+Alan Turing,41,London,alan@mail.com,444-555-6666
+Katherine Johnson,101,White Sulphur Springs,katherine@mail.com,555-666-7777
+Marie Curie,66,Paris,marie@mail.com,666-777-8888
+Nikola Tesla,86,Smiljan,tesla@mail.com,777-888-9999
+Rosalind Franklin,37,London,rosalind@mail.com,888-999-0000
