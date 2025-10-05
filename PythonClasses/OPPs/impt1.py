@@ -15,8 +15,6 @@ def findSmall(list2):
   print(list2)
 
 
-  
-
 def findDublicate(l):
     dupes = set()
     for i in range(len(l)):
@@ -24,3 +22,14 @@ def findDublicate(l):
             if l[j] == l[i]:
                 dupes.add(l[j])
     return dupes
+
+
+def revStg(strg):
+  name = strg
+
+  words = name.split(" ")
+  reversed_words =" "
+  for i in range(len(words) - 1, -1, -1):
+      reversed_words+=words[i] + " "
+
+  print(reversed_words)
