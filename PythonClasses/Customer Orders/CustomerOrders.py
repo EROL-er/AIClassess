@@ -25,3 +25,4 @@ for (order_id, customer, product, category, qty, price) in orders:
     line_total = qty * price
     customer_spend[customer] = customer_spend.get(customer, 0.0) + line_total
 
+
