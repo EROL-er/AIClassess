@@ -1,0 +1,12 @@
+Name,Age,City,Email,"Phone
+"
+Erol X
+Martin Luther King
+Nelson Mandela
+Ada Lovelace
+Grace Hopper
+Alan Turing
+Katherine Johnson
+Marie Curie
+Nikola Tesla
+Rosalind Franklin
